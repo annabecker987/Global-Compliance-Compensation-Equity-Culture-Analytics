@@ -32,6 +32,7 @@ Missing values were handled using median imputation to reduce cross-country outl
 
 Figure 1. Identification and treatment of missing values using median-based imputation.
 
+
 Cultural Logic & Calculated Fields
 
 Cultural dimensions were operationalized using Tableau calculated fields. Countries were categorized into Individualism tiers using conditional logic consistent with Python-style IF/ELSE structures.
