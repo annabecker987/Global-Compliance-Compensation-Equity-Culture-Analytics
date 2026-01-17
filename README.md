@@ -44,6 +44,7 @@ Visual Analysis
 Global Turnover Overview (Anchor Visual)
 
 Figure 3. Global turnover rates by country, visualized using a geographic map and comparative bar chart.
+### Global Turnover Overview
 ![Turnover by Country](Visuals/Turn_Over_By_Country_Cultural_Dimensions.png)
 Engagement, Pay Ratio & Compliance Gaps
 
