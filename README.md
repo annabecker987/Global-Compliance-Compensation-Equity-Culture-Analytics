@@ -31,7 +31,7 @@ Synthetic HRIS data was generated using public benchmarks from the OECD, World B
 Missing values were handled using median imputation to reduce cross-country outlier bias.
 
 Figure 1. Identification and treatment of missing values using median-based imputation.
-![Missing Data Handling](Missing_Data_Cultural_Dimensions.png)
+![Missing Data Handling](Visuals/Missing_Data_Cultural_Dimensions.png)
 
 Cultural Logic & Calculated Fields
 
@@ -45,15 +45,15 @@ Global Turnover Overview (Anchor Visual)
 
 Figure 3. Global turnover rates by country, visualized using a geographic map and comparative bar chart.
 ### Global Turnover Overview
-![Turnover by Country](Turn_Over_By_Country_Cultural_Dimensions.png)
+![Turnover by Country](Visuals/Turn_Over_By_Country_Cultural_Dimensions.png)
 Engagement, Pay Ratio & Compliance Gaps
 
 Figure 4. Relationship between engagement, pay ratio, and compliance gaps across countries.
-![Compliance Gap Scatter Plot](Compliance_Gap_Scatter_Plot_Cultural_Dimensions.png)
+![Compliance Gap Scatter Plot](Visuals/Compliance_Gap_Scatter_Plot_Cultural_Dimensions.png)
 Cultural Dimensions & Engagement Correlation
 
 Figure 5. Engagement correlation with Individualism and Power Distance, illustrating cultural moderation effects.
-![Engagement Correlation](Engagement_Correlation_Cultural_Dimensions.png)
+![Engagement Correlation](Visuals/Engagement_Correlation_Cultural_Dimensions.png)
 Key Insights
 
 Countries with lower pay ratios and larger compliance gaps tend to show lower engagement
