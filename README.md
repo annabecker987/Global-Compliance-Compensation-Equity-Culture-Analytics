@@ -38,7 +38,7 @@ Cultural Logic & Calculated Fields
 Cultural dimensions were operationalized using Tableau calculated fields. Countries were categorized into Individualism tiers using conditional logic consistent with Python-style IF/ELSE structures.
 
 Figure 2. Tableau calculated field used to categorize countries by Individualism level.
-![Calculated Field Logic](Visuals/Calculated_Feild_Tablaeu_Cultural_Dimensions.png)
+![Calculated Field Logic](Visuals/Calculated_Feild_Tablaeu_Cultural_Dimensions%20.png) 
 
 Visual Analysis
 Global Turnover Overview (Anchor Visual)
