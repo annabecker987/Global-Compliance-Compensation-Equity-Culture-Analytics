@@ -31,14 +31,14 @@ Synthetic HRIS data was generated using public benchmarks from the OECD, World B
 Missing values were handled using median imputation to reduce cross-country outlier bias.
 
 Figure 1. Identification and treatment of missing values using median-based imputation.
-!(Missing_Data_Cultural_Dimensions.png)
+![Missing Data Handling](Missing_Data_Cultural_Dimensions.png)
 
 Cultural Logic & Calculated Fields
 
 Cultural dimensions were operationalized using Tableau calculated fields. Countries were categorized into Individualism tiers using conditional logic consistent with Python-style IF/ELSE structures.
 
 Figure 2. Tableau calculated field used to categorize countries by Individualism level.
-Calculated_Field_Tablaeu_Cultural_Dimensions.png
+![Calculated Field Logic](Calculated_Feild_Tableau_Cultural_Dimensions.png)
 
 Visual Analysis
 Global Turnover Overview (Anchor Visual)
