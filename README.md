@@ -38,7 +38,7 @@ Cultural Logic & Calculated Fields
 Cultural dimensions were operationalized using Tableau calculated fields. Countries were categorized into Individualism tiers using conditional logic consistent with Python-style IF/ELSE structures.
 
 Figure 2. Tableau calculated field used to categorize countries by Individualism level.
-![Calculated Field Logic](Calculated_Feild_Tableau_Cultural_Dimensions.png)
+![Calculated Field Logic](Calculated_Field_Tableau_Cultural_Dimensions.png)
 
 Visual Analysis
 Global Turnover Overview (Anchor Visual)
@@ -49,7 +49,7 @@ Figure 3. Global turnover rates by country, visualized using a geographic map an
 Engagement, Pay Ratio & Compliance Gaps
 
 Figure 4. Relationship between engagement, pay ratio, and compliance gaps across countries.
-![Compliance Gap Scatter Plot](Complaince_Gap_Scatter_Plot_Cultural_Dimensions.png)
+![Compliance Gap Scatter Plot](Compliance_Gap_Scatter_Plot_Cultural_Dimensions.png)
 Cultural Dimensions & Engagement Correlation
 
 Figure 5. Engagement correlation with Individualism and Power Distance, illustrating cultural moderation effects.
